@@ -1,5 +1,6 @@
-def power(a,b):
+def power(a, b):
     return a**b
 
-def root(a,n):
+
+def root(a, n):
     return a**(1 / n)
