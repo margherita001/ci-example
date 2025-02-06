@@ -1,4 +1,4 @@
-from mathematics import power,root
+from mathematics import power, root
 
 
 def test_power():
